@@ -1,0 +1,24 @@
+{
+  "name": "kiwi-pagination",
+  "version": "0.1.0",
+  "description": "Kiwi's plugin for pagination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:open-node/kiwi-pagination.git"
+  },
+  "keywords": [
+    "kiwi",
+    "chaplin",
+    "bowserify"
+  ],
+  "author": "Redstone Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-node/kiwi-pagination/issues"
+  },
+  "homepage": "https://github.com/open-node/kiwi-pagination"
+}
